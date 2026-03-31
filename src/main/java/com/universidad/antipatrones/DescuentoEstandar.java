@@ -10,4 +10,5 @@ public class DescuentoEstandar implements EstrategiaDescuento {
     }
 
     public String getNombre() { return "ESTANDAR"; }
+
 }
